@@ -1,0 +1,29 @@
+.footer{
+    position:fixed;
+    bottom:0;
+
+   width:900px;
+   text-align:center;
+   right:0px;
+    background-color:green;
+
+}
+.heading{
+    position:absolute;
+    text-align:center;
+    font-size:30px;
+    object-position:center;
+    left:300px;
+}
+.alien{
+    text-align:center;
+    font-size:20px;
+    color:blue;
+margin:20px;
+padding:20px;
+
+
+}
+.test_image_and_result{
+    box-shadow:5px 5px 30px orange;
+}
